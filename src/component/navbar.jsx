@@ -1,5 +1,5 @@
 import React from "react";
-import Button from "../ui/Button";
+import Button from "./ui/Button";
 import { HiOutlineX, HiOutlineMenu } from "react-icons/hi";
 
 export const Navbar = () => {
